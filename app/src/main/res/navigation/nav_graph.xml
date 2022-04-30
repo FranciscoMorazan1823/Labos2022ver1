@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/wordListFragment">
+    <fragment
+        android:id="@+id/wordListFragment"
+        android:name="com.example.dummydictionary.WordListFragment"
+        tools:layout="@layout/fragment_word_list"
+        android:label="WordListFragment" >
+        <action
+            android:id="@+id/action_wordListFragment_to_neword"
+            app:destination="@id/neword" />
+    </fragment>
+    <fragment
+        android:id="@+id/neword"
+        android:name="com.example.dummydictionary.neword"
+        android:label="neword" />
+</navigation>
