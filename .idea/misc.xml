@@ -8,10 +8,13 @@
         <entry key="..\:/Users/DEI-PC-LAB/Desktop/Nueva carpeta/DummyDictionary/app/src/main/res/layout/fragment_neword.xml" value="0.18854166666666666" />
         <entry key="..\:/Users/DEI-PC-LAB/Desktop/Nueva carpeta/DummyDictionary/app/src/main/res/layout/fragment_word_list.xml" value="0.25" />
         <entry key="..\:/Users/DEI-PC-LAB/Desktop/Nueva carpeta/DummyDictionary/app/src/main/res/layout/item_word.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Lab2/app/src/main/res/layout/fragment_neword.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Lab2/app/src/main/res/layout/fragment_word_list.xml" value="0.1828125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Lab2/app/src/main/res/layout/item_word.xml" value="0.5" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

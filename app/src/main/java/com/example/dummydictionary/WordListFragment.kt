@@ -55,6 +55,12 @@ class WordListFragment : Fragment() {
 
         val navController = findNavController()
 
+        binding.actionTravel.setOnClickListener{
+
+            val action = WordListFragmentDirections.actionWordListFragmentToNeword()
+            navController.navigate(action)
+        }
+
     }}
 
 
